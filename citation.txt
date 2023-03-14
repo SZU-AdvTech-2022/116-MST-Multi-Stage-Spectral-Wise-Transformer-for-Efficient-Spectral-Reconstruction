@@ -1,0 +1,5 @@
+@inproceedings{REPO-117,
+    author = "Cai, Yuanhao and Lin, Jing and Lin, Zudi and Wang, Haoqian and Zhang, Yulun and Pfister, Hanspeter and Timofte, Radu and Gool, Luc Van",
+    title = "{MST++: Multi-Stage Spectral-wise Transformer for Efficient Spectral Reconstruction}",
+    year = "2022"
+}
